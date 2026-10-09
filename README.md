@@ -1,6 +1,30 @@
 # Project File Link
 Link:- [[https://datastudio.google.com/reporting/73af75c8-ef37-4a36-b6ab-02fb890c801d](https://datastudio.google.com/reporting/73af75c8-ef37-4a36-b6ab-02fb890c801d)]
 
+# Google Play Store Dashboard Using Looker Studio
+
+## Dashboard Screenshots
+
+### Dashboard 1: Executive Overview & Business Performance Analysis
+
+![Executive Overview and Business Performance Analysis](Dashboard%20Screenshots/Dashboard%201%20(Executive%20Overview%20%26%20Business%20Performance%20Analysis).png)
+
+### Dashboard 2: Ratings & User Satisfaction Analysis
+
+![Ratings and User Satisfaction Analysis](Dashboard%20Screenshots/Dashboard%202%20(Ratings%20%26%20User%20Satisfaction%20Analysis).png)
+
+### Dashboard 3: Install & Popularity Analysis
+
+![Install and Popularity Analysis](Dashboard%20Screenshots/Dashboard%203%20(Install%20%26%20Popularity%20Analysis).png)
+
+### Dashboard 4: Pricing & Revenue Analysis
+
+![Pricing and Revenue Analysis](Dashboard%20Screenshots/Dashboard%204%20(Pricing%20%26%20Revenue%20Analysis).png)
+
+### Dashboard 5: App Size & Update Trends Analysis
+
+![App Size and Update Trends Analysis](Dashboard%20Screenshots/Dashboard%205%20(App%20Size%20%26%20Update%20Trends%20Analysis).png)
+
 # Google Play Store App Insights Dashboard Using Looker Studio
 
 ## Project Overview
